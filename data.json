@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "title": "m xv",
+      "coverImg": "https://low-offset.com/wp-content/uploads/2022/01/what-is-a-sleeper-car.jpg",
+      "videoURL": "https://www.youtube.com/embed/NRPBd2yXV8A?autoplay=1",
+      "id": 1
+    },
+    {
+      "title": "ehjfbs",
+      "coverImg": "https://www.luminartechnolab.com/static/media/logo%20vanner%200.1.ad159943.png",
+      "videoURL": "https://www.youtube.com/embed/dauigg?autoplay=1",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Songs",
+      "videos": [
+        {
+          "title": "m xv",
+          "coverImg": "https://low-offset.com/wp-content/uploads/2022/01/what-is-a-sleeper-car.jpg",
+          "videoURL": "https://www.youtube.com/embed/NRPBd2yXV8A?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "graer",
+          "coverImg": "https://low-offset.com/wp-content/uploads/2022/01/what-is-a-sleeper-car.jpg",
+          "videoURL": "https://www.youtube.com/embed/fotJBSYhOpo?autoplay=1",
+          "id": 2
+        },
+        {
+          "title": "m xv",
+          "coverImg": "https://low-offset.com/wp-content/uploads/2022/01/what-is-a-sleeper-car.jpg",
+          "videoURL": "https://www.youtube.com/embed/NRPBd2yXV8A?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "ehjfbs",
+          "coverImg": "https://www.luminartechnolab.com/static/media/logo%20vanner%200.1.ad159943.png",
+          "videoURL": "https://www.youtube.com/embed/dauigg?autoplay=1",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dance",
+      "videos": [
+        {
+          "title": "ehjfbs",
+          "coverImg": "https://www.luminartechnolab.com/static/media/logo%20vanner%200.1.ad159943.png",
+          "videoURL": "https://www.youtube.com/embed/dauigg?autoplay=1",
+          "id": 3
+        },
+        {
+          "title": "m xv",
+          "coverImg": "https://low-offset.com/wp-content/uploads/2022/01/what-is-a-sleeper-car.jpg",
+          "videoURL": "https://www.youtube.com/embed/NRPBd2yXV8A?autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "ehjfbs",
+          "coverImg": "https://www.luminartechnolab.com/static/media/logo%20vanner%200.1.ad159943.png",
+          "videoURL": "https://www.youtube.com/embed/dauigg?autoplay=1",
+          "id": 3
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "1",
+      "title": "Labeeb",
+      "time": "27/12/23",
+      "videoURL": "https://www.youtube.com/embed/NRPBd2yXV8A?autoplay=1"
+    },
+    {
+      "id": "hZk5kPU",
+      "title": "ehjfbs",
+      "time": "28-12-2023 11:03:05 PM",
+      "videoURL": "https://www.youtube.com/embed/dauigg?autoplay=1"
+    },
+    {
+      "id": "y9iJOfz",
+      "title": "m xv",
+      "time": "28-12-2023 11:03:29 PM",
+      "videoURL": "https://www.youtube.com/embed/NRPBd2yXV8A?autoplay=1"
+    },
+    {
+      "id": "wTycXny",
+      "title": "ehjfbs",
+      "time": "28-12-2023 11:13:23 PM",
+      "videoURL": "https://www.youtube.com/embed/dauigg?autoplay=1"
+    }
+  ]
+}

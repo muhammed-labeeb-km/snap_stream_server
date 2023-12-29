@@ -1,0 +1,22 @@
+ json server 
+--------------
+    json-server - library used to create json server 
+    npm i json-server 
+
+
+ cors - cross origin resource sharing 
+---------------------------------------
+    library used to connect server with client app
+
+    npm i cors
+
+
+ middleware 
+-------------
+    middleware work first before api request resolving
+    defaults() - used to convert json->js  inside (json-server)
+
+ nodemon 
+-----------
+    nodemon is a tool that helps develop Node.js based applications by automatically 
+    restarting the node application when file changes in the directory are detected.
